@@ -1,0 +1,12 @@
+{
+  "name": "snackzo",
+  "version": "1",
+  "description": "api-backend",
+  "main": "index.js",
+  "author": "Omkar Kulkarni <omkarak45@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

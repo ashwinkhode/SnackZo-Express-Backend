@@ -1,0 +1,145 @@
+[
+  {
+    "popular": [
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Extra special"
+      },
+      {
+        "name": "Rendang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Nasi Padang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "199",
+        "note": "Chilly"
+      },
+      {
+        "name": "Pece",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Special, Spicy"
+      },
+      {
+        "name": "Indomie",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Spicy"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Rendang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": ""
+      },
+      {
+        "name": "Pece",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Special, Spicy"
+      }
+    ],
+    "allmenu": [
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Extra special"
+      },
+      {
+        "name": "Rendang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Nasi Padang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "199",
+        "note": "Chilly"
+      },
+      {
+        "name": "Indomie",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Spicy"
+      },
+      {
+        "name": "Rendang",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "250",
+        "note": "Special"
+      },
+      {
+        "name": "Nasi Goreng",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": ""
+      },
+      {
+        "name": "Pece",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": "Special, Spicy"
+      }
+    ]
+  }
+]
