@@ -2,8 +2,8 @@
   {
     "popular": [
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "name": "Butter Chicken",
+        "imageUrl": "https://www.thespruceeats.com/thmb/kdJ6PSTpUOrMY5X-emab0g-CL40=/1728x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authentic-butter-chicken-1957382-Hero-5b61b398c9e77c0050160f54.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
@@ -11,8 +11,8 @@
         "note": "Extra special"
       },
       {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "name": "Tandoori Chicken",
+        "imageUrl": "https://www.thespruceeats.com/thmb/SxIRu8AgdaHqXYKo10Gc9D97D1g=/1643x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChickenTandooriSpruce-f238bf7413984e088268565c5b660b11.jpg",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
@@ -20,8 +20,8 @@
         "note": "Special"
       },
       {
-        "name": "Nasi Padang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "name": "Chicken Tikka Masala",
+        "imageUrl": "https://www.thespruceeats.com/thmb/oZzyz_ozFovEJP5jcERptTekg4c=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-842135108-59ed890f685fbe0011d766e8.jpg",
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Delivery charges 50 extra",
@@ -29,18 +29,17 @@
         "note": "Chilly"
       },
       {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
+        "name": "Red Lamb",
+        "imageUrl": "https://www.thespruceeats.com/thmb/ypQd3WsJfsnW4TwgCaaadMvN370=/2468x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rogan-josh-recipe-1957574-hero-01-f52e315a56c342f39c3f4bca2bab8c86.jpg",
         "rating": "4.0",
         "deliveryTime": "75 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "350",
         "note": "Special, Spicy"
       },
       {
-        "name": "Indomie",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
-        "rating": "3.8",
+        "name": "Malai Kofta",
+        "imageUrl": "https://www.thespruceeats.com/thmb/0OqhTGqIogJlG6YYpoFs3IKc_8U=/2396x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/malai-kofta-vege-balls-in-a-thick-sauce-1957964_hero-01-474bc099313944668d3b2c68b88549d5.jpg",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Free Delivery",
         "price": "150",
@@ -49,8 +48,8 @@
     ],
     "recommended": [
       {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "name": "Chole",
+        "imageUrl": "https://www.thespruceeats.com/thmb/9a_DPB7DQ4jr-Z7upSu-ocHduGE=/1940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chole-chickpea-curry-1957946-hero-01-a740af2e2b984ddca9e93096d6bc4c89.jpg",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
@@ -58,8 +57,8 @@
         "note": "Special"
       },
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "name": "Palak Paneer",
+        "imageUrl": "https://www.thespruceeats.com/thmb/twkScHFyaxpmgyuTZ-KSn4Oo6vY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/palakpaneer-56a5108a3df78cf772862bd2-5a2ac49a89eacc00370f516d.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
@@ -67,19 +66,19 @@
         "note": ""
       },
       {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
-        "rating": "4.0",
-        "deliveryTime": "75 mins",
+        "name": "Papdi Chaat",
+        "imageUrl": "https://www.thespruceeats.com/thmb/tFKvVCAPTl7kRj1tUTvIFYcnfmI=/2278x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/papdi-chaat-recipe-1958046-hero-01-100f6f30f05a4395a5c6bfa515fc087c.jpg",
+        "rating": "4.5",
+        "deliveryTime": "15 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "100",
         "note": "Special, Spicy"
       }
     ],
     "allmenu": [
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular1.png",
+        "name": "Butter Chicken",
+        "imageUrl": "https://www.thespruceeats.com/thmb/kdJ6PSTpUOrMY5X-emab0g-CL40=/1728x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/authentic-butter-chicken-1957382-Hero-5b61b398c9e77c0050160f54.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
@@ -87,8 +86,8 @@
         "note": "Extra special"
       },
       {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular2.png",
+        "name": "Tandoori Chicken",
+        "imageUrl": "https://www.thespruceeats.com/thmb/SxIRu8AgdaHqXYKo10Gc9D97D1g=/1643x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChickenTandooriSpruce-f238bf7413984e088268565c5b660b11.jpg",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
@@ -96,8 +95,8 @@
         "note": "Special"
       },
       {
-        "name": "Nasi Padang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular3.png",
+        "name": "Chicken Tikka Masala",
+        "imageUrl": "https://www.thespruceeats.com/thmb/oZzyz_ozFovEJP5jcERptTekg4c=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-842135108-59ed890f685fbe0011d766e8.jpg",
         "rating": "4.5",
         "deliveryTime": "55 mins",
         "deliveryCharges": "Delivery charges 50 extra",
@@ -105,17 +104,25 @@
         "note": "Chilly"
       },
       {
-        "name": "Indomie",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/popular4.png",
-        "rating": "3.8",
+        "name": "Red Lamb",
+        "imageUrl": "https://www.thespruceeats.com/thmb/ypQd3WsJfsnW4TwgCaaadMvN370=/2468x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rogan-josh-recipe-1957574-hero-01-f52e315a56c342f39c3f4bca2bab8c86.jpg",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "350",
+        "note": "Special, Spicy"
+      },
+      {
+        "name": "Malai Kofta",
+        "imageUrl": "https://www.thespruceeats.com/thmb/0OqhTGqIogJlG6YYpoFs3IKc_8U=/2396x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/malai-kofta-vege-balls-in-a-thick-sauce-1957964_hero-01-474bc099313944668d3b2c68b88549d5.jpg",
         "deliveryTime": "25 mins",
         "deliveryCharges": "Free Delivery",
         "price": "150",
         "note": "Spicy"
       },
       {
-        "name": "Rendang",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended2.png",
+        "name": "Chole",
+        "imageUrl": "https://www.thespruceeats.com/thmb/9a_DPB7DQ4jr-Z7upSu-ocHduGE=/1940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chole-chickpea-curry-1957946-hero-01-a740af2e2b984ddca9e93096d6bc4c89.jpg",
         "rating": "4.9",
         "deliveryTime": "35 mins",
         "deliveryCharges": "Free Delivery",
@@ -123,8 +130,8 @@
         "note": "Special"
       },
       {
-        "name": "Nasi Goreng",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended1.png",
+        "name": "Palak Paneer",
+        "imageUrl": "https://www.thespruceeats.com/thmb/twkScHFyaxpmgyuTZ-KSn4Oo6vY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/palakpaneer-56a5108a3df78cf772862bd2-5a2ac49a89eacc00370f516d.jpg",
         "rating": "5.0",
         "deliveryTime": "45 mins",
         "deliveryCharges": "Free Delivery",
@@ -132,12 +139,12 @@
         "note": ""
       },
       {
-        "name": "Pece",
-        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/foodapp/recommended3.png",
-        "rating": "4.0",
-        "deliveryTime": "75 mins",
+        "name": "Papdi Chaat",
+        "imageUrl": "https://www.thespruceeats.com/thmb/tFKvVCAPTl7kRj1tUTvIFYcnfmI=/2278x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/papdi-chaat-recipe-1958046-hero-01-100f6f30f05a4395a5c6bfa515fc087c.jpg",
+        "rating": "4.5",
+        "deliveryTime": "15 mins",
         "deliveryCharges": "Free Delivery",
-        "price": "150",
+        "price": "100",
         "note": "Special, Spicy"
       }
     ]
