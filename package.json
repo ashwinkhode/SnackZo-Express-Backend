@@ -1,6 +1,6 @@
 {
   "name": "snackzo",
-  "version": "1",
+  "version": "0.0.1",
   "description": "api-backend",
   "main": "index.js",
   "author": "Omkar Kulkarni <omkarak45@gmail.com>",
